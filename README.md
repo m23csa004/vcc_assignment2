@@ -32,4 +32,4 @@ To replicate the setup, follow the instructions in the report (`Report.pdf`).
 
 ## Author
 [Amresh Kumar]  
-[m23csa004]
+[m23csa004@iitj.ac.in]
